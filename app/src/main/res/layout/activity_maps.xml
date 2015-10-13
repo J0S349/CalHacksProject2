@@ -10,7 +10,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content">
 
-
         <EditText
             android:layout_width="211dp"
             android:layout_height="wrap_content"
@@ -19,7 +18,7 @@
             style="?android:attr/buttonStyleSmall"
             android:layout_width="90dp"
             android:layout_height="69dp"
-            android:text="Seach"
+            android:text="Search"
             android:id="@+id/SearchButton"
             android:layout_gravity="right"
             android:onClick="onSearch" />
